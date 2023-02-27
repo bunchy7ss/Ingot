@@ -269,7 +269,7 @@ body {
 	align-items: center;
 	border-radius: 4px;
 	box-sizing: border-box;
-	color: rgb(138, 180, 248);
+	color: rgb(155, 248, 138);
 	cursor: pointer;
 	display: inline-flex;
 	font-weight: 500;
@@ -285,11 +285,11 @@ body {
 }
 
 .item-left-button:hover {
-	background: rgba(138, 180, 248, 0.08);
+	background: rgba(95, 99, 104, 0.08);
 }
 
 .item-left-button:active {
-	background: rgba(138, 180, 248, 0.25);
+	background: rgba(95, 99, 104, 0.25);
 }
 
 .item-toggle {
